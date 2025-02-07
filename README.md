@@ -56,5 +56,3 @@ Este é um projeto Java para manipulação de funcionários, incluindo funcional
 - **Java 17+**
 - **Docker** e **Docker Compose**
 - **Maven (opcional)**
-
-Caso tenha dúvidas ou precise de ajuda, sinta-se à vontade para perguntar! 🚀
