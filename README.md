@@ -29,7 +29,7 @@ Este é um projeto Java para manipulação de funcionários, incluindo funcional
 2. Compile o projeto:
 
    ```sh
-   javac -d out Pessoa.java Funcionario.java Principal.java
+   javac -d out Classes/*.java Principal.java
    ```
 
 3. Execute o projeto:
